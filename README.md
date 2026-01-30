@@ -22,7 +22,7 @@ Currently preparing for law school to combine tech expertise with legal knowledg
 
 - 👨‍💻 All of my projects are available at [https://github.com/davit-lab](https://github.com/davit-lab)
 
-- 📫 How to reach me **your@email.com**
+- 📫 How to reach me **datosandro951@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
