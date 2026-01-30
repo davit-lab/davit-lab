@@ -153,25 +153,25 @@ GitHub Analytics
 <p>
   <a href="https://github.com/davit-lab">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davit-lab&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00d4ff&text_color=c9d1d9&ring_color=00ff88" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davit-lab&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" />
   </a>
 </p>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davit-lab&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ff88&line=00d4ff&point=ff6b6b&area=true&area_color=00ff88&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davit-lab&bg_color=0d1117&color=00ff88&line=00d4ff&point=ff6b6b&area=true&area_color=00ff88&hide_border=true" width="95%"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=davit-lab&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15" width="95%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -193,11 +193,8 @@ Connect With Me
 <a href="mailto:YOUR_EMAIL">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&color=0d1117&labelColor=0d1117" />
 </a>
-<a href="https://YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=safari&logoColor=00ff88&color=0d1117&labelColor=0d1117" />
-</a>
-<a href="https://discord.com/users/YOUR_DISCORD">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=5865F2&color=0d1117&labelColor=0d1117" />
+<a href="https://github.com/davit-lab">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=0d1117" />
 </a>
 </p>
 </div>
@@ -212,7 +209,7 @@ Connect With Me
 <br><br>
 
 <!-- Visitor Counter -->
-<img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" />
+<img src="https://profile-counter.glitch.me/davit-lab/count.svg" />
 
 <br><br>
 
