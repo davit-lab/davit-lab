@@ -1,180 +1,231 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=DAVIT%20UGULAVA&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Ethical%20Hacker%20%7C%20Full-Stack%20Developer%20%7C%20UI/UX%20Designer&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
+<!-- Cyberpunk Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:00ff88,100:00d4ff&height=200&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=100&lines=%F0%9F%94%90+Breaking+Systems+to+Make+Them+Stronger;%F0%9F%92%BB+Building+Digital+Experiences+Since+2020" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=80&lines=DAVIT+UGULAVA" alt="Typing SVG" /></a>
 
-<!-- Animated Badges -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Ethical+Hacker+%7C+Penetration+Tester;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%8E%A8+UI%2FUX+Designer;%F0%9F%94%90+Security+Researcher;%E2%9A%96%EF%B8%8F+Future+Lawyer" alt="Typing SVG" /></a>
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Matrix-style badges -->
 <p>
-<img src="https://img.shields.io/badge/Focus-Cybersecurity-00d4ff?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Experience-5+_Years-9644f4?style=for-the-badge&logo=clockify&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Status-Available-00ff88?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117" />
+<a href="#"><img src="https://img.shields.io/badge/⚡_HACKER_MODE-ACTIVATED-00ff88?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/📅_CODING_SINCE-2020-00d4ff?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/🌍_LOCATION-GEORGIA-ff6b6b?style=for-the-badge&labelColor=0d1117" /></a>
 </p>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
 
 </div>
 
----
+<!-- About Section with Glowing Effect -->
+<h2>
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<span style="color: #00ff88">root@davit</span>:<span style="color: #00d4ff">~</span>$ cat about_me.txt
+</h2>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
-
-```yaml
-name: Davit Ugulava
-location: Georgia 🇬🇪
-role: Ethical Hacker | Full-Stack Developer | UI/UX Designer
-journey: 2020 → 2021 (rebirth) → 2026 (and beyond)
-languages: [Georgian, English]
-passion: "Using hacking skills for justice — like a digital detective 🕵️"
-future: Law Student 📚⚖️
-philosophy: "The best security comes from understanding the attacker's mindset"
+```bash
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│  ██████╗  █████╗ ██╗   ██╗██╗████████╗    ██╗   ██╗ ██████╗ ██╗   ██╗       │
+│  ██╔══██╗██╔══██╗██║   ██║██║╚══██╔══╝    ██║   ██║██╔════╝ ██║   ██║       │
+│  ██║  ██║███████║██║   ██║██║   ██║       ██║   ██║██║  ███╗██║   ██║       │
+│  ██║  ██║██╔══██║╚██╗ ██╔╝██║   ██║       ██║   ██║██║   ██║██║   ██║       │
+│  ██████╔╝██║  ██║ ╚████╔╝ ██║   ██║       ╚██████╔╝╚██████╔╝╚██████╔╝       │
+│  ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝   ╚═╝        ╚═════╝  ╚═════╝  ╚═════╝        │
+│                                                                              │
+│  ┌─────────────────────────────────────────────────────────────────────┐    │
+│  │ > Ethical Hacker who breaks systems to protect them                 │    │
+│  │ > Full-Stack Developer crafting digital masterpieces                │    │
+│  │ > UI/UX Designer creating intuitive experiences                     │    │
+│  │ > Privacy advocate & Tor network enthusiast 🧅                      │    │
+│  │ > Future Law Student combining tech + justice ⚖️                    │    │
+│  └─────────────────────────────────────────────────────────────────────┘    │
+│                                                                              │
+│  Languages: Georgian 🇬🇪 | English 🇬🇧                                       │
+│  Philosophy: "I hack like a detective, not a criminal"                      │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🎯 What Drives Me
-
-- 🔐 **Ethical Hacking** — Finding vulnerabilities before the bad guys do
-- 💻 **Web Development** — Crafting beautiful, functional digital experiences  
-- 🎨 **UI/UX Design** — Making technology accessible and delightful
-- 🧅 **Privacy Advocate** — Exploring the depths of the onion network
-- ⚖️ **Future Lawyer** — Combining tech knowledge with legal expertise
-
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Arsenal
-
-<div align="center">
-
-### 💻 Languages & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,ts,python,php,java,cpp,c&theme=dark&perline=6" />
-</p>
-
-### 🗄️ Databases & Backend
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,nodejs,express&theme=dark" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker,aws&theme=dark" />
-</p>
-
-### 🔒 Security Tools
-<p>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=torbrowser&logoColor=white" />
-</p>
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Journey
+<!-- Journey Timeline -->
+<h2>
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
+My Coding Evolution
+</h2>
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   🚀 2020                    💪 2021                   🔥 2026   ║
-║   ┌─────────┐               ┌─────────┐               ┌─────────┐║
-║   │ Started │──── Lost ────▶│ Reborn  │──── Growth ──▶│ Expert  │║
-║   │ Coding  │    Motivation │ Stronger│    & Mastery  │  Mode   │║
-║   └─────────┘               └─────────┘               └─────────┘║
-║                                                                  ║
-║   "Every setback is a setup for a greater comeback"             ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+                    ╔═══════════════════════════════════════════════════════════════╗
+                    ║                     🚀 THE JOURNEY 🚀                         ║
+                    ╠═══════════════════════════════════════════════════════════════╣
+                    ║                                                               ║
+                    ║    ┏━━━━━━━━━━━┓         ┏━━━━━━━━━━━┓         ┏━━━━━━━━━━━┓  ║
+                    ║    ┃   2020    ┃ ═══════▶┃   2021    ┃ ═══════▶┃   2026    ┃  ║
+                    ║    ┃  🌱 START ┃   💔    ┃ 🔥 REBORN ┃   📈    ┃ 👑 MASTER ┃  ║
+                    ║    ┗━━━━━━━━━━━┛         ┗━━━━━━━━━━━┛         ┗━━━━━━━━━━━┛  ║
+                    ║         │                      │                      │       ║
+                    ║         ▼                      ▼                      ▼       ║
+                    ║    First Code            Never Give Up          5+ Years      ║
+                    ║    Written               Mindset Born           Experience    ║
+                    ║                                                               ║
+                    ║          "Every expert was once a beginner who refused        ║
+                    ║                        to give up"                            ║
+                    ╚═══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" />
-</div>
-
----
-
-## 🏆 Featured Projects
+<!-- Tech Stack with Neon Effect -->
+<h2>
+<img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35">
+Tech Arsenal
+</h2>
 
 <div align="center">
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" />
-</a>
+<!-- Frontend -->
+<h3>🎨 Frontend Development</h3>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&color=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&color=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&color=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=0d1117&labelColor=0d1117" />
+</p>
+
+<!-- Backend -->
+<h3>⚙️ Backend & Languages</h3>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54&color=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=777BB4&color=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ED8B00&color=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&color=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=A8B9CC&color=0d1117&labelColor=0d1117" />
+</p>
+
+<!-- Database -->
+<h3>🗄️ Database</h3>
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&color=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=336791&color=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&color=0d1117&labelColor=0d1117" />
+</p>
+
+<!-- Security Tools -->
+<h3>🔒 Cybersecurity Arsenal</h3>
+<p>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=557C94&color=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=1679A7&color=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=FF6633&color=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=2596CD&color=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=4682B4&color=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=torbrowser&logoColor=7D4698&color=0d1117&labelColor=0d1117" />
+</p>
+
+<!-- Design Tools -->
+<h3>🎯 Design & Tools</h3>
+<p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&color=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&color=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&color=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&color=0d1117&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&color=0d1117&labelColor=0d1117" />
+</p>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤝 Let's Connect
+<!-- GitHub Stats with Custom Styling -->
+<h2>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+GitHub Analytics
+</h2>
+
+<div align="center">
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00d4ff&text_color=c9d1d9&ring_color=00ff88" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" />
+  </a>
+</p>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ff88&line=00d4ff&point=ff6b6b&area=true&area_color=00ff88&hide_border=true" width="95%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15" width="95%"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Connect Section -->
+<h2>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+Connect With Me
+</h2>
 
 <div align="center">
 <p>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0d1117&labelColor=0d1117" />
 </a>
 <a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&color=0d1117&labelColor=0d1117" />
 </a>
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&color=0d1117&labelColor=0d1117" />
 </a>
 <a href="https://YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=safari&logoColor=00ff88&color=0d1117&labelColor=0d1117" />
+</a>
+<a href="https://discord.com/users/YOUR_DISCORD">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=5865F2&color=0d1117&labelColor=0d1117" />
 </a>
 </p>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- Footer -->
 <div align="center">
 
-### 💭 Quote That Keeps Me Going
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" />
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<br><br>
 
-### 👀 Profile Views
+<!-- Visitor Counter -->
+<img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" />
+<br><br>
 
----
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║   "In the world of 0s and 1s, I choose to be the 1 that makes a difference"  ║
+║                                                                               ║
+║                    🔐 Hack the Planet, Ethically 🔐                           ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" width="100%"/>
-
-<p>
-<img src="https://img.shields.io/badge/Made_with-❤️_&_☕-ff6b6b?style=for-the-badge" />
-</p>
-
-**⚡ "Hacking is not about breaking laws, it's about breaking barriers." ⚡**
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,50:00ff88,100:00d4ff&height=120&section=footer&reversal=true&animation=fadeIn" width="100%"/>
 
 </div>
